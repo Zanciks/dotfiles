@@ -1,0 +1,10 @@
+[2022-04-28 20:33:27.481] [sharedprocess] [info] Starting worker process with pid 7585 (type: fileWatcher, window: 1).
+[2022-04-28 20:33:29.113] [sharedprocess] [info] Getting Manifest... asvetliakov.vscode-neovim
+[2022-04-28 20:33:30.123] [sharedprocess] [info] Installing extension: asvetliakov.vscode-neovim
+[2022-04-28 20:33:31.175] [sharedprocess] [info] Downloaded extension: asvetliakov.vscode-neovim /home/zanciks/.config/VSCodium/CachedExtensionVSIXs/asvetliakov.vscode-neovim-0.0.84
+[2022-04-28 20:33:31.223] [sharedprocess] [info] Extracted extension to /home/zanciks/.vscode-oss/extensions/.afbecb1c-76b5-48c5-9f0f-69ee289210d0: asvetliakov.vscode-neovim
+[2022-04-28 20:33:31.227] [sharedprocess] [info] Renamed to /home/zanciks/.vscode-oss/extensions/asvetliakov.vscode-neovim-0.0.84
+[2022-04-28 20:33:31.228] [sharedprocess] [info] Extracting completed. asvetliakov.vscode-neovim
+[2022-04-28 20:33:31.231] [sharedprocess] [info] Extension installed successfully: asvetliakov.vscode-neovim
+[2022-04-28 20:33:49.163] [sharedprocess] [info] Worker process with pid 7585 terminated normally (type: fileWatcher, window: 1).
+[2022-04-28 20:33:50.049] [sharedprocess] [info] Starting worker process with pid 7839 (type: fileWatcher, window: 1).

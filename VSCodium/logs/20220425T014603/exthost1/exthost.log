@@ -1,0 +1,71 @@
+[2022-04-25 01:46:05.174] [exthost] [info] Extension host with pid 982648 started
+[2022-04-25 01:46:05.210] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-04-25 01:46:05.212] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+[2022-04-25 01:46:05.213] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-04-25 01:46:05.215] [exthost] [info] ExtensionService#_doActivateExtension vscodevim.vim, startup: true, activationEvent: '*'
+[2022-04-25 01:46:05.276] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2022-04-25 01:46:05.286] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-04-25 01:46:05.301] [exthost] [info] Eager extensions activated
+[2022-04-25 01:46:05.308] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-04-25 01:46:05.311] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-04-25 01:46:05.312] [exthost] [info] ExtensionService#_doActivateExtension zhuangtongfa.material-theme, startup: false, activationEvent: 'onStartupFinished'
+[2022-04-25 01:46:11.882] [exthost] [info] extension host terminating: renderer closed the socket
+[2022-04-25 01:46:11.888] [exthost] [info] Extension host with pid 982648 exiting with code 0
+[2022-04-25 01:46:12.709] [exthost] [info] Extension host with pid 982791 started
+[2022-04-25 01:46:12.709] [exthost] [info] Skipping acquiring lock for /home/zanciks/.config/VSCodium/User/workspaceStorage/23f4766bfa168906d48f238bf0bc0645.
+[2022-04-25 01:46:12.736] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-04-25 01:46:12.737] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+[2022-04-25 01:46:12.738] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-04-25 01:46:12.740] [exthost] [info] ExtensionService#_doActivateExtension vscodevim.vim, startup: true, activationEvent: '*'
+[2022-04-25 01:46:12.785] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2022-04-25 01:46:12.797] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-04-25 01:46:12.812] [exthost] [info] Eager extensions activated
+[2022-04-25 01:46:12.817] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-04-25 01:46:12.820] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-04-25 01:46:12.821] [exthost] [info] ExtensionService#_doActivateExtension zhuangtongfa.material-theme, startup: false, activationEvent: 'onStartupFinished'
+[2022-04-25 01:46:14.451] [exthost] [info] ExtensionService#_doActivateExtension franneck94.c-cpp-runner, startup: false, activationEvent: 'onLanguage:cpp'
+[2022-04-25 01:50:52.417] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:json'
+[2022-04-25 01:50:52.420] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:json'
+[2022-04-25 01:50:52.434] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:json'
+[2022-04-25 01:50:52.452] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onLanguage:json'
+[2022-04-25 01:50:59.659] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-04-25 01:53:52.926] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-server-ready, startup: false, activationEvent: 'onDebugResolve'
+[2022-04-25 02:03:46.948] [exthost] [info] extension host terminating: renderer closed the socket
+[2022-04-25 02:03:47.208] [exthost] [error] TypeError: Converting circular structure to JSON
+    --> starting at object with constructor 't'
+    |     property '_readableState' -> object with constructor 'M'
+    |     property 'pipes' -> object with constructor 'Array'
+    |     index 0 -> object with constructor 't.ConsoleForElectron'
+    --- property 'parent' closes the circle
+    at JSON.stringify (<anonymous>)
+    at async (/home/zanciks/.vscode-oss/extensions/vscodevim.vim-1.22.2/src/register/register.ts:357:16)
+    at Object.e.deactivate (/home/zanciks/.vscode-oss/extensions/vscodevim.vim-1.22.2/extension.ts:64:8)
+    at async Promise.all (index 14)
+    at deactivateAll (/opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:90:10255)
+[2022-04-25 02:03:47.208] [exthost] [info] Extension host with pid 982791 exiting with code 0
+[2022-04-25 02:03:48.219] [exthost] [info] Extension host with pid 993928 started
+[2022-04-25 02:03:48.219] [exthost] [info] Skipping acquiring lock for /home/zanciks/.config/VSCodium/User/workspaceStorage/d0f384bfd71bb9bc3cee10ae8504b930.
+[2022-04-25 02:03:48.254] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-04-25 02:03:48.256] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+[2022-04-25 02:03:48.257] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-04-25 02:03:48.259] [exthost] [info] ExtensionService#_doActivateExtension vscodevim.vim, startup: true, activationEvent: '*'
+[2022-04-25 02:03:48.312] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2022-04-25 02:03:48.324] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-04-25 02:03:48.328] [exthost] [info] ExtensionService#_doActivateExtension franneck94.c-cpp-runner, startup: true, activationEvent: 'workspaceContains:*.h,*.c,*.hh,*.cc,*.hxx,*.cxx,*.hpp,*.cpp'
+[2022-04-25 02:03:48.346] [exthost] [info] Eager extensions activated
+[2022-04-25 02:03:48.352] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-04-25 02:03:48.355] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-04-25 02:03:48.357] [exthost] [info] ExtensionService#_doActivateExtension zhuangtongfa.material-theme, startup: false, activationEvent: 'onStartupFinished'
+[2022-04-25 02:05:10.393] [exthost] [info] extension host terminating: renderer closed the socket
+[2022-04-25 02:05:10.641] [exthost] [error] TypeError: Converting circular structure to JSON
+    --> starting at object with constructor 't'
+    |     property '_readableState' -> object with constructor 'M'
+    |     property 'pipes' -> object with constructor 'Array'
+    |     index 0 -> object with constructor 't.ConsoleForElectron'
+    --- property 'parent' closes the circle
+    at JSON.stringify (<anonymous>)
+    at async (/home/zanciks/.vscode-oss/extensions/vscodevim.vim-1.22.2/src/register/register.ts:357:16)
+    at Object.e.deactivate (/home/zanciks/.vscode-oss/extensions/vscodevim.vim-1.22.2/extension.ts:64:8)
+    at async Promise.all (index 8)
+    at deactivateAll (/opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:90:10255)
+[2022-04-25 02:05:10.641] [exthost] [info] Extension host with pid 993928 exiting with code 0

@@ -1,0 +1,16 @@
+[2022-04-23 21:50:47.406] [exthost] [info] Extension host with pid 124571 started
+[2022-04-23 21:50:47.406] [exthost] [info] Skipping acquiring lock for /home/zanciks/.config/VSCodium/User/workspaceStorage/39b451f64cfb5aceab3af2441792ace5.
+[2022-04-23 21:50:47.453] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-04-23 21:50:47.457] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+[2022-04-23 21:50:47.460] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-04-23 21:50:47.463] [exthost] [info] ExtensionService#_doActivateExtension vscodevim.vim, startup: true, activationEvent: '*'
+[2022-04-23 21:50:47.831] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2022-04-23 21:50:47.857] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-04-23 21:50:47.884] [exthost] [info] Eager extensions activated
+[2022-04-23 21:50:47.898] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-04-23 21:50:47.903] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-04-23 21:50:47.904] [exthost] [info] ExtensionService#_doActivateExtension zhuangtongfa.material-theme, startup: false, activationEvent: 'onStartupFinished'
+[2022-04-23 21:59:48.616] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-server-ready, startup: false, activationEvent: 'onDebugResolve'
+[2022-04-23 21:59:56.281] [exthost] [info] ExtensionService#_doActivateExtension franneck94.c-cpp-runner, startup: false, activationEvent: 'onLanguage:cpp'
+[2022-04-23 22:00:03.716] [exthost] [info] extension host terminating: renderer closed the socket
+[2022-04-23 22:00:03.727] [exthost] [info] Extension host with pid 124571 exiting with code 0

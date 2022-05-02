@@ -1,0 +1,8 @@
+[2022-04-23 21:50:47.530] [sharedprocess] [info] Starting worker process with pid 124632 (type: fileWatcher, window: 1).
+[2022-04-23 21:59:55.053] [sharedprocess] [info] Getting Manifest... franneck94.c-cpp-runner
+[2022-04-23 21:59:55.192] [sharedprocess] [info] Installing extension: franneck94.c-cpp-runner
+[2022-04-23 21:59:56.105] [sharedprocess] [info] Downloaded extension: franneck94.c-cpp-runner /home/zanciks/.config/VSCodium/CachedExtensionVSIXs/franneck94.c-cpp-runner-3.0.0
+[2022-04-23 21:59:56.174] [sharedprocess] [info] Extracted extension to /home/zanciks/.vscode-oss/extensions/.c16b4034-a61b-4ee6-b00c-a657c3e22066: franneck94.c-cpp-runner
+[2022-04-23 21:59:56.177] [sharedprocess] [info] Renamed to /home/zanciks/.vscode-oss/extensions/franneck94.c-cpp-runner-3.0.0
+[2022-04-23 21:59:56.178] [sharedprocess] [info] Extracting completed. franneck94.c-cpp-runner
+[2022-04-23 21:59:56.179] [sharedprocess] [info] Extension installed successfully: franneck94.c-cpp-runner

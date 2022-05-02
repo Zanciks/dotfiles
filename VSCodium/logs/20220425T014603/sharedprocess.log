@@ -1,0 +1,5 @@
+[2022-04-25 01:46:05.329] [sharedprocess] [info] Starting worker process with pid 982692 (type: fileWatcher, window: 1).
+[2022-04-25 01:46:11.890] [sharedprocess] [info] Worker process with pid 982692 terminated normally (type: fileWatcher, window: 1).
+[2022-04-25 01:46:12.424] [sharedprocess] [info] Starting worker process with pid 982790 (type: fileWatcher, window: 1).
+[2022-04-25 02:03:46.955] [sharedprocess] [info] Worker process with pid 982790 terminated normally (type: fileWatcher, window: 1).
+[2022-04-25 02:03:47.839] [sharedprocess] [info] Starting worker process with pid 993927 (type: fileWatcher, window: 1).

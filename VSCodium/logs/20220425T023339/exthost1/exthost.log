@@ -1,0 +1,22 @@
+[2022-04-25 02:33:41.199] [exthost] [info] Extension host with pid 1031858 started
+[2022-04-25 02:33:41.199] [exthost] [info] Skipping acquiring lock for /home/zanciks/.config/VSCodium/User/workspaceStorage/6e6145a1d6a9da2255bedbec8e491ec8.
+[2022-04-25 02:33:41.252] [exthost] [info] ExtensionService#_doActivateExtension franneck94.c-cpp-runner, startup: false, activationEvent: 'onLanguage:cpp'
+[2022-04-25 02:33:41.255] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-04-25 02:33:41.256] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+[2022-04-25 02:33:41.257] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-04-25 02:33:41.259] [exthost] [info] ExtensionService#_doActivateExtension vscodevim.vim, startup: true, activationEvent: '*'
+[2022-04-25 02:33:41.675] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2022-04-25 02:33:41.689] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-04-25 02:33:41.717] [exthost] [info] Eager extensions activated
+[2022-04-25 02:33:41.753] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-04-25 02:33:41.757] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-04-25 02:33:41.758] [exthost] [info] ExtensionService#_doActivateExtension zhuangtongfa.material-theme, startup: false, activationEvent: 'onStartupFinished'
+[2022-04-25 02:33:55.367] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-04-25 02:33:55.370] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-04-25 02:33:55.385] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-04-25 02:34:07.056] [exthost] [warning] TextEditor is closed/disposed
+[2022-04-25 02:34:07.056] [exthost] [warning] TextEditor is closed/disposed
+[2022-04-25 02:34:12.918] [exthost] [warning] TextEditor is closed/disposed
+[2022-04-25 02:34:12.918] [exthost] [warning] TextEditor is closed/disposed
+[2022-04-25 02:38:08.319] [exthost] [info] extension host terminating: renderer closed the socket
+[2022-04-25 02:38:08.332] [exthost] [info] Extension host with pid 1031858 exiting with code 0

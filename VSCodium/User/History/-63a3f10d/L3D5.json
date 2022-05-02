@@ -1,0 +1,8 @@
+{
+    "workbench.colorTheme": "Default Dark+",
+    "vscode-neovim.neovimExecutablePaths.linux": "/home/zanciks/.local/bin/lvim",
+    "editor.fontFamily": "'JetBrainsMono Nerd Font'",
+    "explorer.confirmDelete": false,
+    "explorer.confirmDragAndDrop": false,
+    "security.workspace.trust.untrustedFiles": "open"
+}

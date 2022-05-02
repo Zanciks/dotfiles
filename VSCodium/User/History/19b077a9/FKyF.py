@@ -1,0 +1,12 @@
+from tkinter import * 
+
+root = Tk()
+
+background_image = PhotoImage(file = "output-onlinepngtools.png")
+
+label1 = Label(root, image = background_image)
+label1.place(x = 0, y = 0)
+
+root.config(bg = '#add123')
+root.wm_attributes("-transparentcolor", "#add123")
+root.mainloop()
